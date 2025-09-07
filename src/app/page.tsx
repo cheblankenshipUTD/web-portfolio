@@ -94,6 +94,10 @@ export default function Home() {
               <span> </span>
               <a className="text-sm underline" href="https://www.linkedin.com/in/cheblankenship/" target="_blank">link to my linkedin</a>
             </div>
+            <div className="text-sm">github:
+              <span> </span>
+              <a className="text-sm underline" href="https://github.com/cheblankenshipUTD/" target="_blank">link to my github</a>
+            </div>
           </div>
         }
       </main>
