@@ -9,9 +9,6 @@ export default function Home() {
 
   return (
     <div className="min-h-screen p-8 flex flex-col lg:flex-row">
-      <div className="">
-
-      </div>
       <aside className="flex flex-col items-start gap-4 lg:w-2/10">
         <button className="font-bold" key={"home"}
           onClick={() => setCurrentPage("home")}>che blankenship</button>
