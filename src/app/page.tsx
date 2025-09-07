@@ -65,7 +65,7 @@ export default function Home() {
           </div>
         }
         {currentPage === "extras" &&
-          <div className="flex flex-wrap text-sm mx-5">
+          <div className="flex-wrap text-sm mx-5">
             <div className="w-4/10 m-5">
               <img src="./imgs/abstract_news_01.png" />
               <p>news</p>
