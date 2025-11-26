@@ -87,11 +87,11 @@ export default function Home() {
               >
                 <ul>
                   <motion.li variants={itemVariants} className="mb-4">
-                    <h3>KEEN Trading</h3>
-                    <a className="text-sm underline" href="https://keen-trading.com/" target="_blank">
+                    <h3>RMH</h3>
+                    <a className="text-sm underline" href="https://ratemyhoa.app/" target="_blank">
                       Website
                     </a>
-                    <p className="text-sm">Drag and drop components to automatically trade stocks.</p>
+                    <p className="text-sm">RateMyHOA consolidates information on over 15,000 HOAs from federal and state databases, leveraging Ollama 3.2 (a locally-run language model) to extract, structure, and process HOA data at scale.</p>
                   </motion.li>
 
                   <motion.li variants={itemVariants} className="mb-4">
